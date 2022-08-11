@@ -1,5 +1,9 @@
-# Keep-Notes
+# Notes Keeper App
 Inspired by Google Keep. Building this to learn React.
 
-https://user-images.githubusercontent.com/96815596/184162978-60634332-09b0-4664-b3b8-dd5971c5feae.mp4
+
+
+
+
+https://user-images.githubusercontent.com/96815596/184163305-2e4ab01e-1b1f-457c-8144-8e5ace058741.mp4
 
